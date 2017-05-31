@@ -1,2 +1,3 @@
 # HinterJs
-Nice javascript syntax highlighter that is flexible
+A flexible all language syntax highlighter
+It is also a cross browser script.
